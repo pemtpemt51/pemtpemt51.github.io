@@ -6,8 +6,8 @@ categories: ["shopping"]
 tags: ["Top10", "shopping", "뼈엔엠비피mbp"]
 keywords: ["뼈엔엠비피mbp", "Top10", "shopping"]
 author: "pemtpemt51"
-description: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
-summary: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
+description: "뼈엔엠비피mbp 인기 상품을 가격·평점·리뷰 기준으로 정리한 TOP10 추천 리스트입니다. 뼈 건강에 필수적인 MBP 제품들을 엄선했습니다. 고함량 유단백 추출물에 비타민D가 배합된 제품부터 개인 맞춤형 옵션까지, 검증된 인기 상품 3가지를 소개합니다. 신뢰도 높은…"
+summary: "뼈엔엠비피mbp 인기 상품을 가격·평점·리뷰 기준으로 정리한 TOP10 추천 리스트입니다. 뼈 건강에 필수적인 MBP 제품들을 엄선했습니다. 고함량 유단백 추출물에 비타민D가 배합된 제품부터 개인 맞춤형 옵션까지, 검증된 인기 상품 3가지를 소개합니다. 신뢰도 높은…"
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/b2a9/2e8b1cbec1285a839ec27a905fbd7db50cd3fa5b94cf40ce4a58acc473cc.png"
   alt: "뼈엔엠비피mbp 추천 TOP10 — 뼈엔 엠비피 MBP 유단백 추출물 비타민D 쇼핑백포함,"
