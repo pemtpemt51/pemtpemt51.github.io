@@ -1,7 +1,7 @@
 baseURL: "https://pemtpemt51.github.io/"
 languageCode: ko
 defaultContentLanguage: ko
-title: "pemtpemt51 blog"
+title: "구매 판단 노트"
 theme: PaperMod
 paginate: 10
 
@@ -23,8 +23,8 @@ params:
   comments: false
 
   homeInfoParams:
-    Title: "블로그에 오신 것을 환영합니다"
-    Content: "다양한 정보를 공유합니다."
+    Title: "구매 판단 노트"
+    Content: "쿠팡 인기 상품을 가격·평점·리뷰 데이터로 비교해, 무엇을 살지 판단하는 기준과 순위를 정리합니다. 순위는 글마다 적힌 조회 날짜 기준입니다."
 
   socialIcons: []
 
